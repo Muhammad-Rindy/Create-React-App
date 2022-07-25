@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.btn {
+  background-color: #61dafb;
+  font-size: 50;
+}
+
+.picture {
+  height: 500;
+  width: 500;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
